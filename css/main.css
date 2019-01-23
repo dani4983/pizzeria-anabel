@@ -16,7 +16,7 @@
     background: url("../img/pizza-fondo.jpg");
     background-position: center center;
     background-repeat: no-repeat;
-    
+    background-attachment: fixed;
     background-size: cover;
     height: 100vh;
 }
@@ -25,7 +25,7 @@
   background: url("../img/sandwich-milanesa2.jpg");
   background-position: center center;
   background-repeat: no-repeat;
-  
+  background-attachment: fixed;
   background-size: cover;
   height: 100vh;
 }
@@ -43,7 +43,7 @@
   background: url("../img/papas-fritas.jpg");
   background-position: center center;
   background-repeat: no-repeat;
-  
+  background-attachment: fixed;
   background-size: cover;
   height: 100vh;
 }
@@ -60,7 +60,7 @@
   background: url("../img/hamburguesa.jpg");
   background-position: center center;
   background-repeat: no-repeat;
-  
+  background-attachment: fixed;
   background-size: cover;
   height: 100vh;
 }
