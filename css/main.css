@@ -75,7 +75,7 @@
 
 @media screen and (max-width: 768px){
   header {
-   height: 150vh;
+   height: 140vh;
   }
   #mila h2 {
     font-size: 90px;
@@ -90,7 +90,7 @@
 
 @media screen and (max-width: 576px){
   header {
-    height: 200vh;
+    height: 180vh;
 }
   #mila h2 {
     font-size: 40px;
