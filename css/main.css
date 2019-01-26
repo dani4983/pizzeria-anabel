@@ -80,16 +80,24 @@
   #mila h2, #papas h2, #patys h2{
     font-size: 60px;
   }
+  #patys h2{
+    font-size: 40px;
+    font.weight: 900;
+  }
 }
 
 @media screen and (max-width: 576px){
   header {
     height: 180vh;
 }
-  #mila h2, #papas h2, #patys h2{
+  #mila h2, #papas h2, {
     font-size: 70px;
     font.weight: 900;
   }
+  #patys h2{
+    font-size: 50px;
+    font.weight: 900;
+   }
 }
 
 /* Pagina de registro */
