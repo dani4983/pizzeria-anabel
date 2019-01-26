@@ -77,14 +77,8 @@
   header {
    height: 140vh;
   }
-  #mila h2 {
-    font-size: 90px;
-  }
-  #papas h2 {
-    font-size: 90px;
-  }
-  #patys h2 {
-    font-size: 90px;
+  #mila h2, #papas h2, #patys h2{
+    font-size: 60px;
   }
 }
 
@@ -93,7 +87,7 @@
     height: 180vh;
 }
   #mila h2, #papas h2, #patys h2{
-    font-size: 90px;
+    font-size: 70px;
     font.weight: 900;
   }
 }
