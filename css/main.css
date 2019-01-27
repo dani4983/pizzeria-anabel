@@ -13,7 +13,7 @@
    }
  
    header {
-     background: url("./img/pizza-fondo.jpg");
+     background: url("../img/pizza-fondo.jpg");
      background-position: center center;
      background-repeat: no-repeat;
      background-attachment: fixed;
@@ -22,7 +22,7 @@
  }
  
  #mila {
-   background: url("./img/sandwich-milanesa2.jpg");
+   background: url("../img/sandwich-milanesa2.jpg");
    background-position: center center;
    background-repeat: no-repeat;
    
@@ -40,7 +40,7 @@
  }
  
  #papas {
-   background: url("./img/papas-fritas.jpg");
+   background: url("../img/papas-fritas.jpg");
    background-position: center center;
    background-repeat: no-repeat;
    
@@ -57,7 +57,7 @@
  }
  
  #patys{
-   background: url("./img/hamburguesa.jpg");
+   background: url("../img/hamburguesa.jpg");
    background-position: center center;
    background-repeat: no-repeat;
    
